@@ -6,5 +6,10 @@ The project intends to study the charging charaacteristics of the battery in WAS
 
 I measured charging current, voltage of battery and temperature of battery in the project. Charging of battery was conducted at three C-rate (1C, 0.5C and 0.25C). We have used H18650CQ Li-ion cell with 2550 mAh and 9.18 Wh rating in series in our system.
 
-The charging current, voltages and temperature data were logged to SD Card and analysed to produce graphs.
+The charging current, voltages and temperature data were logged to SD Card and analysed, following are the results.
 
+![Charging current](https://github.com/ParuHangRai-PRI/Battery-Charger-Analysis/blob/main/output.png, "Charging current over time")
+
+![Voltage](https://github.com/ParuHangRai-PRI/Battery-Charger-Analysis/blob/main/output1.png, "Voltage across cell over time")
+
+![Temperature](https://github.com/ParuHangRai-PRI/Battery-Charger-Analysis/blob/main/tempr.png, "Cell temperature over time")
