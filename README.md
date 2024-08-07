@@ -10,15 +10,15 @@ The charging current, voltages and temperature data were logged to SD Card and a
 
 ![Charging current](<https://github.com/ParuHangRai-PRI/Battery-Charger-Analysis/blob/main/output.png> "Charging current over time")
 
-*Fig 1: Charging current over time*
+                    *Fig 1: Charging current over time*
 
 ![Voltage](<https://github.com/ParuHangRai-PRI/Battery-Charger-Analysis/blob/main/output1.png> "Voltage across cell over time")
 
-*Fig 2: Voltage across cell over time*
+                    *Fig 2: Voltage across cell over time*
 
 ![Temperature](<https://github.com/ParuHangRai-PRI/Battery-Charger-Analysis/blob/main/tempr.png> "Cell temperature over time")
-
-*Fig 3: Cell temperature over time*
+                    
+                    *Fig 3: Cell temperature over time*
 
 ## Discussion
 
