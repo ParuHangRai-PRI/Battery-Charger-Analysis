@@ -48,4 +48,4 @@ This project lights an insight into the WAS BMS and the ways to imporove it. The
 
 We also can look to solve PCB ground and battery negative terminal potential difference.
 
-
+Further files at [Google Drive folder](https://drive.google.com/drive/folders/1aRVQor8fQYHas8Dipm0Br4D4-eykoTM8?usp=drive_link)
