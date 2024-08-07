@@ -1,6 +1,6 @@
 # Battery Charging Characteristics of WAS 2.0 project
 
-The project intends to study the charging charaacteristics of the battery in WAS 2.0 project. Battery characteristics is necessary to implement proper Battery Management System (BMS), increase the stability of the system, indicate battery health. 
+The project intends to study the charging charaacteristics of the battery in WAS 2.0 project. Battery characteristics is necessary to implement proper Battery Management System (BMS), increase the stability of the system, indicate battery health etc. 
 
 ## Results
 
