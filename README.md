@@ -9,7 +9,12 @@ I measured charging current, voltage of battery and temperature of battery in th
 The charging current, voltages and temperature data were logged to SD Card and analysed, following are the results.
 
 ![Charging current](<https://github.com/ParuHangRai-PRI/Battery-Charger-Analysis/blob/main/output.png> "Charging current over time")
+<center>*Fig 1: Charging current over time*</center>
 
 ![Voltage](<https://github.com/ParuHangRai-PRI/Battery-Charger-Analysis/blob/main/output1.png> "Voltage across cell over time")
+<center>*Fig 2: Voltage across cell over time*</center>
 
 ![Temperature](<https://github.com/ParuHangRai-PRI/Battery-Charger-Analysis/blob/main/tempr.png> "Cell temperature over time")
+<center>*Fig 3: Cell temperature over time*</center>
+
+From the graphs above, we can see the charging time increase from 
